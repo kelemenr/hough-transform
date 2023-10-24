@@ -1,6 +1,6 @@
 # Hough Transform for Circles
 
-This Python script performs Hough Transform with Canny edge detection for detecting circles in an image using OpenCV. The algorithm can be used to find circular objects in images.
+This Python script implements Hough Transform with Canny edge detection for detecting circles. The algorithm can be used to find circular objects in images.
 
 ## Algorithm Overview
 
