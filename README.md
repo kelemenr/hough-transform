@@ -40,7 +40,7 @@ The script produces the following results:
 
 - **Accumulator Image:** A visualization of the Hough Transform accumulator, showing potential circle centers.
 
-- **Hough Transform for Circles:** The original image with detected circles drawn in green and their centers in red.
+- **Hough Transform for Circles:** The original image with detected circles drawn in green with their centers.
 
 <img src="https://github.com/kelemenr/hough-transform/assets/47530064/acf40952-9e84-4903-8475-86995bc5b4ff" width="300">
 <img src="https://github.com/kelemenr/hough-transform/assets/47530064/1972a32f-0307-4946-a279-a82ea2a25ab2" width="300"><br><br>
