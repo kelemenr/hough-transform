@@ -42,14 +42,9 @@ The script produces the following results:
 
 - **Hough Transform for Circles:** The original image with detected circles drawn in green with their centers.
 
-<img src="https://github.com/kelemenr/hough-transform/assets/47530064/acf40952-9e84-4903-8475-86995bc5b4ff" width="300">
-<img src="https://github.com/kelemenr/hough-transform/assets/47530064/1972a32f-0307-4946-a279-a82ea2a25ab2" width="300"><br><br>
-
-<img src="https://github.com/kelemenr/hough-transform/assets/47530064/7c7845ca-f331-4f74-b3c0-e83c7ee151c7" width="300">
-<img src="https://github.com/kelemenr/hough-transform/assets/47530064/fdda55bc-ebf8-4806-9257-0df04f981435" width="300"><br><br>
-
-<img src="https://github.com/kelemenr/hough-transform/assets/47530064/20efcb4c-d926-460e-9a33-a407add4a596" width="300">
-<img src="https://github.com/kelemenr/hough-transform/assets/47530064/e0c9d188-b7bc-4c1c-9bdd-711b5757f331" width="300"><br><br>
+<img src="output/accumulator_blood.png" width="300"> <img src="output/circles_blood.png" width="300"><br>
+<img src="output/accumulator_cable.png" width="300"> <img src="output/circles_cable.png" width="300"><br>
+<img src="output/accumulator_cells.png" width="300"> <img src="output/circles_cells.png" width="300"><br>
 
 
 
